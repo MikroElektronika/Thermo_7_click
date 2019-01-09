@@ -1,0 +1,17 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F107VC -BIN -LHF -DL -SSA -O11111114 -fo72 -N"C:\Users\katarina.perendic\Desktop\Thermo 7 click\example\c\ARM\STM\STM_AppDemo\Click_Thermo7_STM.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -SP"C:\Users\katarina.perendic\Desktop\Thermo 7 click\example\c\ARM\STM\STM_AppDemo\" -SP"C:\Users\katarina.perendic\Desktop\Thermo 7 click\library\HAL\" -SP"C:\Users\katarina.perendic\Desktop\Thermo 7 click\library\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\mikroBUS Board Definition API\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -IP"C:\Users\katarina.perendic\Desktop\Thermo 7 click\example\c\ARM\STM\STM_AppDemo\" -IP"C:\Users\katarina.perendic\Desktop\Thermo 7 click\library\" -IP"C:\Users\katarina.perendic\Desktop\Thermo 7 click\library\HAL\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\mikroBUS Board Definition API\Uses\" "Click_Thermo7_STM.c" "__thermo7_driver.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_105_107.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_I2C_12.emcl" "__Lib_UART_123_45.emcl" "easymx_v7_STM32F107VC.emcl" "Click_Thermo7.pld"	 
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 67	123	Compiled Successfully	Click_Thermo7_STM.c
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 222	123	Compiled Successfully	__thermo7_driver.c
+hint: 323	1164	Variable 'tmp' has been eliminated by optimizer	__thermo7_driver.c
+hint: 84	1164	Variable 'tmp' has been eliminated by optimizer	__thermo7_driver.c
+hint: 101	1164	Variable 'ptr' has been eliminated by optimizer	__thermo7_driver.c
+hint: 109	1164	Variable 'ptr' has been eliminated by optimizer	__thermo7_driver.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 375   Dynamic RAM (bytes): 65157	Static RAM (bytes): 375   Dynamic RAM (bytes): 65157
+hint: 0	1144	Used ROM (bytes): 10558 (4%)  Free ROM (bytes): 251586 (96%)	Used ROM (bytes): 10558 (4%)  Free ROM (bytes): 251586 (96%)
+diagnostics: 0	125	Project Linked Successfully	Click_Thermo7_STM.mcpar
+diagnostics: 0	128	Linked in 265 ms	 
+diagnostics: 0	129	Project 'Click_Thermo7_STM.mcpar' completed: 484 ms	 
+diagnostics: 0	103	Finished successfully: 18 okt 2018, 11:25:08	Click_Thermo7_STM.mcpar

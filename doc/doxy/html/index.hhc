@@ -1,0 +1,172 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Thermo7 Click"><param name="Local" value="index.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Modules"><param name="Local" value="modules.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="THERMO7"><param name="Local" value="group___t_h_e_r_m_o7.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Compilation Config"><param name="Local" value="group___t_h_e_r_m_o7___c_o_m_p_i_l_e.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__THERMO7_DRV_I2C__"><param name="Local" value="group___t_h_e_r_m_o7___c_o_m_p_i_l_e.html#gaa2d6fecbfe0c7fa7e21bbfcfd632a2cc"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Driver Initialization"><param name="Local" value="group___t_h_e_r_m_o7___i_n_i_t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Driver Functions"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_getHysteresisTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#gab0fb1d0c45b7cf337af337ba3214c956"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_getInterrupt"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga8ff08383f7054fbe76e48a2ad9d6cc68"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_getLimitTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga7a7b127e6b2f2c5af324274f3c29c04d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_readAmbientTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga27baeeab504d6f5fc471206d57a87881"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_setConfiguration"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga834c49921a165f812fa840b9dcf55bec"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_setHysteresisTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga3bd4999413d2f3f6c85b9d5dae4c8387"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_setLimitTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga6b0bbd4763b949c5742d01563670524a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_setResolution"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga72a433d4dc2edc42c1ff4a945038fb93"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="T_THERMO7_P"><param name="Local" value="group___t_h_e_r_m_o7.html#ga457d5c98aadb74f8283e16cd409ce7c3"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="THERMO7_HAL"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HAL Cofiguration"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___c_o_m_p_i_l_e.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__HAL_I2C__"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___c_o_m_p_i_l_e.html#ga0595cb3111a0de93a0e538c453a6551a"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HAL I2C Interface"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___i2_c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_i2cMap"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___i2_c.html#gaca4c97387125dc2c2f6a73cd92892030"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_i2cRead"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___i2_c.html#gad69677efb65b6f1390c0368ad0519301"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_i2cStart"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___i2_c.html#ga10254ae356e7e4dcef06879fba1bac5d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_i2cWrite"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___i2_c.html#ga1f08a5b05f01e53272b0d3b7014e1056"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HAL GPIO Interface"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___g_p_i_o.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="T_hal_gpioObj"><param name="Local" value="struct_t__hal__gpio_obj.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="gpioGet"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#gaf5725dd3cafaa0f96c8fee7c2699560c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="gpioSet"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#ga0dbd9615cd0291d60be68e1dc700d418"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_gpioMap"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___g_p_i_o.html#ga2fe9cba6f571bba1676144b6daa6e0a0"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="T_HAL_P"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#ga41a1f129d7d36b451990b9b508fc5603"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="T_hal_gpioObj"><param name="Local" value="struct_t__hal__gpio_obj.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="gpioGet"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#gaf5725dd3cafaa0f96c8fee7c2699560c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="gpioSet"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#ga0dbd9615cd0291d60be68e1dc700d418"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structure Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="__thermo7_driver.h"><param name="Local" value="____thermo7__driver_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__THERMO7_DRV_I2C__"><param name="Local" value="group___t_h_e_r_m_o7___c_o_m_p_i_l_e.html#gaa2d6fecbfe0c7fa7e21bbfcfd632a2cc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="T_THERMO7_P"><param name="Local" value="group___t_h_e_r_m_o7.html#ga457d5c98aadb74f8283e16cd409ce7c3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_getHysteresisTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#gab0fb1d0c45b7cf337af337ba3214c956"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_getInterrupt"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga8ff08383f7054fbe76e48a2ad9d6cc68"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_getLimitTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga7a7b127e6b2f2c5af324274f3c29c04d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_gpioDriverInit"><param name="Local" value="group___t_h_e_r_m_o7___i_n_i_t.html#ga13b6b3958bb6140f62bd67ed32f46303"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_i2cDriverInit"><param name="Local" value="group___t_h_e_r_m_o7___i_n_i_t.html#gabe74e3ccdfbc511c1f36235eb2bc38b7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_readAmbientTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga27baeeab504d6f5fc471206d57a87881"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_setConfiguration"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga834c49921a165f812fa840b9dcf55bec"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_setHysteresisTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga3bd4999413d2f3f6c85b9d5dae4c8387"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_setLimitTemperature"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga6b0bbd4763b949c5742d01563670524a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="thermo7_setResolution"><param name="Local" value="group___t_h_e_r_m_o7___f_u_n_c.html#ga72a433d4dc2edc42c1ff4a945038fb93"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_ADC_RESOLUTION_10bit"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga1aa5cde793a36d7d457b879d9ecc6460"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_ADC_RESOLUTION_11bit"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga630250c4625b605a1c12abad6e40f47e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_ADC_RESOLUTION_12bit"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga8b4f61c8a39c3384a0cd5016ae9ad82a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_ADC_RESOLUTION_9bit"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga2c9c790678483d7d1539e03a2bedab13"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_ALERT_POLARITY_ACTIVE_HIGH"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga18378d845fb0e90986aaf8830090930c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_ALERT_POLARITY_ACTIVE_LOW"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga6caf2862d800b56349606458ddf26b82"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_COMPARATOR_MODE"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga0e548685cf2a4fd4842bf604d0cd8622"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_FAULT_QUEUE_MODE_1"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#gadb0aff2eed86857ad0e275456385aba0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_FAULT_QUEUE_MODE_2"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga9d71ed06819819698901119cd8493142"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_FAULT_QUEUE_MODE_4"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga6b2fb5856c432873932e196f229880e7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_FAULT_QUEUE_MODE_6"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga5e7b3f52379011eb9b54253b90b27d70"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_INTERRUPT_MODE"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga8f86cc3237fcff19d64115ba0c4af820"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_ONE_SHOT_DISABLE"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga9cfd73ef06c468485a49adcb27b541a1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_ONE_SHOT_ENABLE"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#gac4470b014ba0fc948a932a3bf3a6c664"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_SHUTDOWN_DISABLE"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga81b1872ca22263dd6252b6ec8f6dcd10"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_CONFIG_SHUTDOWN_ENABLE"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga63f166712450c8da5b268ed568fd122f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_REG_AMBIENT_TEMPERATURE"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga44ffc8e12a4d8505f1af806a1b587e68"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_REG_CONFIGURATION"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#gae82d856ed0e0c46f6b8127923adccd6f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_REG_HYSTERESIS_TEMPERATURE"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga7c2feec5f2ad7b79bc62b3ea30343d15"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="_THERMO7_REG_TEMPERATURE_LIMIT_SET"><param name="Local" value="group___t_h_e_r_m_o7___v_a_r.html#ga51f92c98635de84be616ed466199e94f"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="__thermo7_hal.c"><param name="Local" value="____thermo7__hal_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__HAL_I2C__"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___c_o_m_p_i_l_e.html#ga0595cb3111a0de93a0e538c453a6551a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="__INT_PIN_INPUT__"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___c_o_m_p_i_l_e.html#ga646b47f6c0ca8ea8e43e096ccac00305"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="T_HAL_GPIO_OBJ"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#ga7fa771a6252e9e1c5731f8925a2659ae"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="T_HAL_I2C_OBJ"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#gab37af42547cbdcd00c21fd8dbcd97c05"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="T_HAL_P"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#ga41a1f129d7d36b451990b9b508fc5603"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="T_HAL_SPI_OBJ"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#gaaa2c76ee731b497200e9b117c1ca069d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="T_HAL_UART_OBJ"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l.html#ga0e595bad8aa09c114e5733a00b2617b8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="T_hal_gpioGetFp"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___g_p_i_o.html#ga93ba24b809b4370fdce1284adcac535c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="T_hal_gpioSetFp"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___g_p_i_o.html#ga70d52503f3d0ccea51497793f5774b25"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_gpioMap"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___g_p_i_o.html#ga2fe9cba6f571bba1676144b6daa6e0a0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_i2cMap"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___i2_c.html#gaca4c97387125dc2c2f6a73cd92892030"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_i2cRead"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___i2_c.html#gad69677efb65b6f1390c0368ad0519301"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_i2cStart"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___i2_c.html#ga10254ae356e7e4dcef06879fba1bac5d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_i2cWrite"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___i2_c.html#ga1f08a5b05f01e53272b0d3b7014e1056"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hal_gpio_intGet"><param name="Local" value="group___t_h_e_r_m_o7___h_a_l___g_p_i_o.html#ga032b5baf6b27d4da22efb86ceea972b2"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Globals"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Examples"><param name="Local" value="examples.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_AVR.c"><param name="Local" value="_click__thermo7__a_v_r_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_AVR.mbas"><param name="Local" value="_click__thermo7__a_v_r_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_AVR.mpas"><param name="Local" value="_click__thermo7__a_v_r_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_CEC.c"><param name="Local" value="_click__thermo7__c_e_c_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_CEC.mbas"><param name="Local" value="_click__thermo7__c_e_c_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_CEC.mpas"><param name="Local" value="_click__thermo7__c_e_c_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_DSPIC.c"><param name="Local" value="_click__thermo7__d_s_p_i_c_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_DSPIC.mbas"><param name="Local" value="_click__thermo7__d_s_p_i_c_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_DSPIC.mpas"><param name="Local" value="_click__thermo7__d_s_p_i_c_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_FT90x.c"><param name="Local" value="_click__thermo7__f_t90x_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_FT90x.mbas"><param name="Local" value="_click__thermo7__f_t90x_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_FT90x.mpas"><param name="Local" value="_click__thermo7__f_t90x_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_KINETIS.c"><param name="Local" value="_click__thermo7__k_i_n_e_t_i_s_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_KINETIS.mbas"><param name="Local" value="_click__thermo7__k_i_n_e_t_i_s_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_KINETIS.mpas"><param name="Local" value="_click__thermo7__k_i_n_e_t_i_s_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_MSP.c"><param name="Local" value="_click__thermo7__m_s_p_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_MSP.mbas"><param name="Local" value="_click__thermo7__m_s_p_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_MSP.mpas"><param name="Local" value="_click__thermo7__m_s_p_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_PIC.c"><param name="Local" value="_click__thermo7__p_i_c_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_PIC.mbas"><param name="Local" value="_click__thermo7__p_i_c_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_PIC.mpas"><param name="Local" value="_click__thermo7__p_i_c_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_PIC32.c"><param name="Local" value="_click__thermo7__p_i_c32_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_PIC32.mbas"><param name="Local" value="_click__thermo7__p_i_c32_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_PIC32.mpas"><param name="Local" value="_click__thermo7__p_i_c32_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_STM.c"><param name="Local" value="_click__thermo7__s_t_m_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_STM.mbas"><param name="Local" value="_click__thermo7__s_t_m_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_STM.mpas"><param name="Local" value="_click__thermo7__s_t_m_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_TIVA.c"><param name="Local" value="_click__thermo7__t_i_v_a_8c-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_TIVA.mbas"><param name="Local" value="_click__thermo7__t_i_v_a_8mbas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Click_Thermo7_TIVA.mpas"><param name="Local" value="_click__thermo7__t_i_v_a_8mpas-example.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>

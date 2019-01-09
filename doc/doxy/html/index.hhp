@@ -1,0 +1,82 @@
+[OPTIONS]
+Compiled file=../../helpfile.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Servo Click
+
+[WINDOWS]
+main="Servo Click","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_click__thermo7__a_v_r_8c-example.html
+_click__thermo7__a_v_r_8mbas-example.html
+_click__thermo7__a_v_r_8mpas-example.html
+_click__thermo7__c_e_c_8c-example.html
+_click__thermo7__c_e_c_8mbas-example.html
+_click__thermo7__c_e_c_8mpas-example.html
+_click__thermo7__d_s_p_i_c_8c-example.html
+_click__thermo7__d_s_p_i_c_8mbas-example.html
+_click__thermo7__d_s_p_i_c_8mpas-example.html
+_click__thermo7__f_t90x_8c-example.html
+_click__thermo7__f_t90x_8mbas-example.html
+_click__thermo7__f_t90x_8mpas-example.html
+_click__thermo7__k_i_n_e_t_i_s_8c-example.html
+_click__thermo7__k_i_n_e_t_i_s_8mbas-example.html
+_click__thermo7__k_i_n_e_t_i_s_8mpas-example.html
+_click__thermo7__m_s_p_8c-example.html
+_click__thermo7__m_s_p_8mbas-example.html
+_click__thermo7__m_s_p_8mpas-example.html
+_click__thermo7__p_i_c_8c-example.html
+_click__thermo7__p_i_c_8mbas-example.html
+_click__thermo7__p_i_c_8mpas-example.html
+_click__thermo7__p_i_c32_8c-example.html
+_click__thermo7__p_i_c32_8mbas-example.html
+_click__thermo7__p_i_c32_8mpas-example.html
+_click__thermo7__s_t_m_8c-example.html
+_click__thermo7__s_t_m_8mbas-example.html
+_click__thermo7__s_t_m_8mpas-example.html
+_click__thermo7__t_i_v_a_8c-example.html
+_click__thermo7__t_i_v_a_8mbas-example.html
+_click__thermo7__t_i_v_a_8mpas-example.html
+____thermo7__driver_8h_source.html
+____thermo7__driver_8h.html
+____thermo7__hal_8c.html
+group___t_h_e_r_m_o7.html
+group___t_h_e_r_m_o7___c_o_m_p_i_l_e.html
+group___t_h_e_r_m_o7___v_a_r.html
+group___t_h_e_r_m_o7___i_n_i_t.html
+group___t_h_e_r_m_o7___f_u_n_c.html
+group___t_h_e_r_m_o7___h_a_l.html
+group___t_h_e_r_m_o7___h_a_l___c_o_m_p_i_l_e.html
+group___t_h_e_r_m_o7___h_a_l___i2_c.html
+group___t_h_e_r_m_o7___h_a_l___g_p_i_o.html
+struct_t__hal__gpio_obj.html
+dir_5c921a9145db3838565334f9a8a47fb8.html
+dir_e3d620c6b6fdb93ed3bc6186215bde2e.html
+index.html
+modules.html
+annotated.html
+classes.html
+files.html
+globals.html
+globals_func.html
+globals_defs.html
+examples.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
